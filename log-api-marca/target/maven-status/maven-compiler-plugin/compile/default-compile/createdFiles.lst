@@ -1,8 +1,0 @@
-cl\corona\bbook\logapimarca\LogApiMarcaApplication.class
-cl\corona\bbook\logapimarca\controller\MarcaController.class
-cl\corona\bbook\logapimarca\dao\MarcaDao.class
-cl\corona\bbook\logapimarca\config\ModelMapperConfig.class
-cl\corona\bbook\logapimarca\model\dto\MarcaDto.class
-cl\corona\bbook\logapimarca\service\MarcaService.class
-cl\corona\bbook\logapimarca\model\dto\MarcaDto$MarcaDtoBuilder.class
-cl\corona\bbook\logapimarca\model\Marca.class
